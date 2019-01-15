@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipping", "Shipping\Shipping.csproj", "{3DCB379F-E089-42E0-BD49-344FB50B48FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipping", "Shipping\Shipping.csproj", "{3DCB379F-E089-42E0-BD49-344FB50B48FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{1F22F8DF-7BE9-4689-812B-E26F93236AD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3DCB379F-E089-42E0-BD49-344FB50B48FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DCB379F-E089-42E0-BD49-344FB50B48FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DCB379F-E089-42E0-BD49-344FB50B48FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F22F8DF-7BE9-4689-812B-E26F93236AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F22F8DF-7BE9-4689-812B-E26F93236AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F22F8DF-7BE9-4689-812B-E26F93236AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F22F8DF-7BE9-4689-812B-E26F93236AD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
